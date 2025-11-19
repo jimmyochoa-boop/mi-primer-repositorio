@@ -1,1 +1,6 @@
-
+id_venta,fecha,producto,cantidad,precio_unitario,total
+1,2025-01-10,Teclado mecánico,2,35.50,71.00
+2,2025-01-11,Mouse inalámbrico,1,18.99,18.99
+3,2025-01-11,Monitor 24",1,129.90,129.90
+4,2025-01-12,Auriculares gamer,3,22.50,67.50
+5,2025-01-13,Alfombrilla mouse,4,5.75,23.00
